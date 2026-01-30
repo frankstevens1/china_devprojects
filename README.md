@@ -1,9 +1,9 @@
-![alt text](https://assets.qz.com/media/2a515117eb7f0feb8a33b1eac0237171.jpg)
-*REUTERS/NOOR KHAMIS*
-
 # Chinese Development Projects & Subnational Poverty
 
 This repository contains all the required files and documentation to reproduce a study of the effects of development projects financed by China on subnational poverty levels around the world. The study was conducted as a master's thesis for completion of an MSc in International Economics and Development at the Radboud University of Nijmegen. Selected sections of the thesis are provided below to summarize the study, the full thesis is available [here](thesis_complete.pdf).
+
+![alt text](https://assets.qz.com/media/2a515117eb7f0feb8a33b1eac0237171.jpg)
+*REUTERS/NOOR KHAMIS*
 
 ### Skip to Section:
 - [Introduction](#INTRO)
